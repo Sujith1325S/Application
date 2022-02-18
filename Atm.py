@@ -237,7 +237,7 @@ def user(bal,pin):
 print("\t")
 print("\t\t\tATM")
 print("Welcome")
-print("Please enter your ATM card")
+print("Please insert your ATM card")
 print("Press Enter to continue!!!")
 input()
 print("1. Admin")
